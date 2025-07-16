@@ -57,7 +57,7 @@ These charts summarize key insights from the survey conducted as part of the Mar
 
 ### 2. Medium of Content Consumption
 
-![Medium of Content Consumption](medium_of_content_consumption.png)
+![Medium of Content Consumption](Medium_of_Content_Consumption.png)
 
 ### 3. Time Spent on OTT Platforms per week
 
