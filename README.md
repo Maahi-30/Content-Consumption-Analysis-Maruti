@@ -53,19 +53,19 @@ These charts summarize key insights from the survey conducted as part of the Mar
 
 ### 1. Device Preferences for Streaming
 
-![Device Preferences](visuals/device_preferences.png)
+![Device Preferences](device_preferences.png)
 
 ### 2. Medium of Content Consumption
 
-![Medium of Content Consumption](visuals/medium_of_content_consumption.png)
+![Medium of Content Consumption](medium_of_content_consumption.png)
 
 ### 3. Time Spent on OTT Platforms per week
 
-![OTT Time Spent](visuals/time_ott.png)
+![OTT Time Spent](time_ott.png)
 
 ### 4. Time Spent on TV per week
 
-![TV Time Spent](visuals/time_tv.png)
+![TV Time Spent](time_tv.png)
 
 --
 
